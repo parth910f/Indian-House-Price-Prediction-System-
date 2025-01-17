@@ -1,7 +1,7 @@
 # Indian House Price Prediction System
 
 ## Overview
-This project aims to predict house prices based on various factors such as area, number of rooms, and other features that influence the pricing of properties. The system uses machine learning algorithms such as **Random Forest**, **XGBoost**, and **AdaBoost** to make accurate price predictions. The dataset contains **30,000 entries** and **11 features**, and the models were fine-tuned using **manual hyperparameter optimization** to achieve the highest possible prediction accuracy.
+This project aims to predict house prices based on various factors such as area, number of rooms, and other features that influence the pricing of properties. The system uses machine learning algorithms such as **Random Forest**, **XGBoost**, and **AdaBoost** to make accurate price predictions. The dataset contains **30,000 entries** and **11 features**, and the models were fine-tuned using ** hyperparameter optimization** to achieve the highest possible prediction accuracy.
 
 ## Key Features
 
